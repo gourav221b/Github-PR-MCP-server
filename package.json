@@ -1,0 +1,40 @@
+{
+  "name": "githubmcp",
+  "version": "1.0.0",
+  "main": "./build/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "node ./build/index.js",
+    "dev": "tsc --watch"
+  },
+  "bin": {
+    "github": "build/index.js"
+  },
+  "files": [
+    "build"
+  ],
+  "keywords": [
+    "github",
+    "mcp",
+    "pull-requests"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "GitHub Pull Request Data Provider for Model Context Protocol",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.7.0",
+    "@octokit/rest": "^21.1.1",
+    "githubmcp": "file:",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "cross-env": "^7.0.3",
+    "typescript": "^5.8.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
