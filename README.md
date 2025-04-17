@@ -1,5 +1,7 @@
 # GitHub PR MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@gourav221b/Github-PR-MCP-server)](https://smithery.ai/server/@gourav221b/Github-PR-MCP-server)
+
 An MCP (Model-Controller-Presenter) server built with TypeScript for analyzing GitHub Pull Requests.
 
 ## Prerequisites
@@ -8,7 +10,15 @@ An MCP (Model-Controller-Presenter) server built with TypeScript for analyzing G
 - [npm](https://www.npmjs.com/) (comes with Node.js)
 
 ## Installation
+### Installing via Smithery
 
+To install GitHub PR MCP Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@gourav221b/Github-PR-MCP-server):
+
+```bash
+npx -y @smithery/cli install @gourav221b/Github-PR-MCP-server --client claude
+```
+
+### Manual Installation
 1. **Clone the repository:**
 
    ```bash
