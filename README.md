@@ -2,6 +2,10 @@
 
 [![smithery badge](https://smithery.ai/badge/@gourav221b/Github-PR-MCP-server)](https://smithery.ai/server/@gourav221b/Github-PR-MCP-server)
 
+<a href="https://glama.ai/mcp/servers/@gourav221b/Github-PR-MCP-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@gourav221b/Github-PR-MCP-server/badge" alt="GitHub PR Server MCP server" />
+</a>
+
 An MCP (Model-Controller-Presenter) server built with TypeScript for analyzing GitHub Pull Requests.
 
 ## Prerequisites
