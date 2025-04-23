@@ -6,7 +6,7 @@
   <img width="380" height="200" src="https://glama.ai/mcp/servers/@gourav221b/Github-PR-MCP-server/badge" alt="GitHub PR Server MCP server" />
 </a>
 
-An MCP (Model-Controller-Presenter) server built with TypeScript for analyzing GitHub Pull Requests.
+An MCP (Model Context Protocol) server built with TypeScript for analyzing GitHub Pull Requests.
 
 ## Prerequisites
 
