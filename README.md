@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/gourav221b-github-pr-mcp-server-badge.png)](https://mseep.ai/app/gourav221b-github-pr-mcp-server)
+
 # GitHub PR MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@gourav221b/Github-PR-MCP-server)](https://smithery.ai/server/@gourav221b/Github-PR-MCP-server)
